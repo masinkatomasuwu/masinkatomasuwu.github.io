@@ -139,3 +139,18 @@ left: 83%;
             margin-top: -22px;
     
             }
+            .dropdown {
+
+                background-color: #cc2222;
+        
+                padding: 1em 0;
+        
+                position: absolute; 
+        
+                display: none;
+        
+                border-radius: 8px;
+        
+                top: 35px;
+        
+                }
