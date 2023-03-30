@@ -116,4 +116,12 @@ left: 83%;
         font-size: 18px;
         
         }
-        
+        .menu li:hover {
+
+        background-color: #cc2222;
+
+        border-radius: 5px;
+
+        transition: 0.3s ease;
+
+        }
