@@ -132,53 +132,7 @@ left: 83%;
             }
     
     
-    
-            .services {
-    
-            position: relative; 
-            margin-top: 0,1px;
-    
-            }
-            .dropdown {
 
-                background-color: #cc2222;
-        
-                padding: 1em 0;
-        
-                position: absolute; 
-        
-                display: none;
-        
-                border-radius: 8px;
-        
-                top: 35px;
-        
-                }
-                .dropdown li + li {
-
-                    margin-top: 10px;
-            
-                    }
-            
-                    .dropdown li {
-            
-                    padding: 0.5em 1em;
-            
-                    width: 8em;
-            
-                    text-align: center;
-            
-                    }
-                    .dropdown li:hover {
-            
-                        background-color: #cc2222;
-                
-                        }
-                
-                        .services:hover .dropdown {
-                
-                        display: block;
-                       }
             
 
             
