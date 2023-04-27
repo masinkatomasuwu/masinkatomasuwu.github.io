@@ -141,7 +141,7 @@ left: 83%;
 
                 background-color: #cc2222;
         
-
+                padding: 1em 0;
         
                 position: absolute; 
         
@@ -160,7 +160,7 @@ left: 83%;
             
                     .dropdown li {
             
-
+            padding: 0.5em 1em  
             
                     width: 8em;
             
