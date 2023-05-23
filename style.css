@@ -83,4 +83,21 @@ left: 83%;
     li{
         list-style-type: none;
     }
-
+    header{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 0px 10%;
+        background-color: #000000;
+        justify-content: space-between;
+    }
+    
+    .logo{
+        color: #FFF;
+        font-weight: 900;
+    }
+    
+    nav ul{
+        display: flex;
+        flex-direction: row;
+    }
