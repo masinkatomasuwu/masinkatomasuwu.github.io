@@ -115,3 +115,13 @@ left: 83%;
     nav ul li a:hover{
         color: #db4b38;
     }
+    
+    .cta{
+        background-color: #e03434;
+        color: #FFF;
+    }
+    
+    .cta:hover{
+        background-color: #c04743;
+        color: #FFF;
+    }
