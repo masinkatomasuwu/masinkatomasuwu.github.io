@@ -101,3 +101,17 @@ left: 83%;
         display: flex;
         flex-direction: row;
     }
+    nav ul li{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    nav ul li a{
+        color: #FFF;
+        display: block;
+        padding: 20px 25px;
+        border-radius: 3px;
+    }
+    
+    nav ul li a:hover{
+        color: #db4b38;
+    }
