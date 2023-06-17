@@ -201,7 +201,7 @@ left: 83%;
       
       .card-icon{
         font-size: 28px;
-        background: #ff6348;
+        background: red;
         width: 60px;
         height: 60px;
         text-align: center;
@@ -212,7 +212,7 @@ left: 83%;
       
       .card:hover .card-icon{
         background: none;
-        color: #ff6348;
+        color: red;
         transform: scale(1.6);
       }
       
